@@ -1,0 +1,23 @@
+.cardwhole{
+    width: 80%;
+    background: #212121;
+    border-radius: 20px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+.cardwhole input {
+    width: 30px;
+    height: 30px;
+}
+
+.cardwhole img {
+    width: 100px;
+    height: 100px;
+    border-radius: 35px;
+}

@@ -1,0 +1,72 @@
+.homewhole{
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/classphoto.jpg");
+  background-size: cover;
+}
+
+.hazri{
+  color: #2c87f0;
+  font-size: 1.7rem;
+  padding: 10px;
+}
+
+.hazri h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.bothcards{
+  margin-top: 7%;
+  display: flex;
+}
+
+.logincard{
+  width: 30%;
+  background: #212121;
+  color: white;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 25px;
+  padding-top: 20px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.logincard input{
+  width: 100%;
+  height: 50px;
+  justify-content: center;
+  margin: auto;
+  font-size: 1rem;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  
+}
+
+.logincard select{
+  width: 100%;
+  height: 50px;
+  justify-content: center;
+  margin: auto;
+  font-size: 1rem;
+  border-radius: 10px;
+}
+
+.logincard button{
+  width: 100px;
+  height: 50px;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  background: #2c87f0;
+  border-radius: 10px;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+

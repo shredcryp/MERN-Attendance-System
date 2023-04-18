@@ -1,0 +1,30 @@
+.cardwhole{
+    width: 60%;
+    height: 100px;
+    background: #212121;
+    border-radius: 20px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+}
+
+.cardwhole input {
+    width: 30px;
+    height: 30px;
+}
+
+.cardwhole img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.checkandimg {
+    display: flex;
+    align-items: center;
+}

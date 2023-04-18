@@ -1,0 +1,70 @@
+.wholeadminchose{
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+.homenav {
+    width: 100%;
+    height: 60px;
+    background: #212121;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .homenav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .bothadmin{
+    width: 100%;
+    display: flex;
+  }
+
+  .right{
+    margin-right: 20px;
+  }
+
+  .right h4{
+    margin: 0;
+  }
+
+  .leftofadmin{
+    width: 50%;
+    height: 100vh;
+    background-image: url('https://media.istockphoto.com/id/1043554794/photo/mixed-race-teacher-in-the-classroom.jpg?s=612x612&w=0&k=20&c=RXlSOleBMTG6ozSjxxk-xrOyw43jlW_fJXfRp8QPTT0=');
+    background-size: cover;
+    text-align: center;
+  }
+
+  .leftofadmin button{
+    margin-top: 45%;
+    background: #2c87f0;
+    color: white;
+    border-radius: 10px;
+    width: 40%;
+    height: 50px;
+    font-size: 1.2rem;
+
+  }
+
+  .rightofadmin{
+    width: 50%;
+    height: 100vh;
+    background-image: url('https://image.cnbcfm.com/api/v1/image/106922887-1628206615260-gettyimages-887132600-as1700__08.jpeg?v=1628206641');
+    background-size: cover;
+    text-align: center;
+  }
+
+  .rightofadmin button{
+    margin-top: 45%;
+    background: #2c87f0;
+    color: white;
+    border-radius: 10px;
+    width: 40%;
+    height: 50px;
+    font-size: 1.2rem;
+
+  }

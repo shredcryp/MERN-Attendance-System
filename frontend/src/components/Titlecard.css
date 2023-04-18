@@ -1,0 +1,11 @@
+.titlecardwhole{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-left: 10%;
+}
+
+.titlecardwhole .photo {
+    width: 120px;
+}

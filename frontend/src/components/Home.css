@@ -1,0 +1,90 @@
+.wholehome {
+  width: 100%;
+  height: 100vh;
+  background: url('https://m.media-amazon.com/images/M/MV5BMjE1OTMwNTA5NV5BMl5BanBnXkFtZTgwMDkzOTA1NjM@._V1_.jpg');
+  background-size: cover;
+}
+
+.homenav {
+  width: 100%;
+  height: 60px;
+  background: #212121;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.homenav a {
+  color: white;
+  text-decoration: none;
+}
+
+.left h3 {
+  margin: 0;
+  color: #2c87f0;
+  font-size: 1.8rem;
+  align-items: center;
+  padding: 5px;
+  background: #212121;
+}
+
+.bothcards{
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.card1 {
+  background: #212121;
+  width: 80%;
+  height: 110%;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.card1 input{
+  width: 95%;
+  height: 40px;
+  border-radius: 10px;
+
+}
+
+.card1 button{
+  width: 60%;
+  height: 50px;
+  background: #2c87f0;
+  color: white;
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+.card2 {
+  background: #212121;
+  width: 80%;
+  height: 110%;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.card2 input{
+  width: 95%;
+  height: 40px;
+  border-radius: 10px;
+
+}
+
+.card2 button{
+  width: 60%;
+  height: 50px;
+  background: #2c87f0;
+  color: white;
+  border-radius: 20px;
+  font-size: 1rem;
+}

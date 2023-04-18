@@ -1,0 +1,31 @@
+.aboutuswhole{
+    width: 100%;
+    height: 100%;
+    background: black;
+    color: white;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.greypart{
+    padding-top: 40px;
+    width: 80%;
+    height: 500px;
+    background: #212121;
+    justify-content: center;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.info img {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}

@@ -1,0 +1,25 @@
+.wholeadminsignup{
+    width: 100%;
+    height: 100vh;
+    color: white;
+    background-image: url('https://images.businessnewsdaily.com/app/uploads/2019/11/20134654/work-with-your-team-not-above-them.png');
+    background-size: cover;
+}
+
+.homenav {
+    width: 100%;
+    height: 60px;
+    background: #212121;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .homenav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .right h4 {
+    font-weight: normal;
+  }
